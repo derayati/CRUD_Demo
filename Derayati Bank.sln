@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4D68ABA-F008-4D89-B08E-764A3B23D5AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4206641F-94D8-4452-AD96-FF2DC5549DB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DerayatiBank.Common", "DerayatiBank.Common\DerayatiBank.Common.csproj", "{392CDF21-2D40-4408-A952-F145A06CE9AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DerayatiBank.Core", "DerayatiBank.Core\DerayatiBank.Core.csproj", "{810C96E2-0D0B-406E-AFC4-76784085AB0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DerayatiBank.WebAPI", "DerayatiBank.WebAPI\DerayatiBank.WebAPI.csproj", "{DB5A171A-6269-479A-AFAE-435FFCF9496B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DerayatiBank.Test", "DerayatiBank.Test\DerayatiBank.Test.csproj", "{C4E932F3-3BFB-4560-828E-B5D93B57F546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392CDF21-2D40-4408-A952-F145A06CE9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392CDF21-2D40-4408-A952-F145A06CE9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392CDF21-2D40-4408-A952-F145A06CE9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392CDF21-2D40-4408-A952-F145A06CE9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810C96E2-0D0B-406E-AFC4-76784085AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810C96E2-0D0B-406E-AFC4-76784085AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810C96E2-0D0B-406E-AFC4-76784085AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810C96E2-0D0B-406E-AFC4-76784085AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5A171A-6269-479A-AFAE-435FFCF9496B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5A171A-6269-479A-AFAE-435FFCF9496B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5A171A-6269-479A-AFAE-435FFCF9496B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5A171A-6269-479A-AFAE-435FFCF9496B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E932F3-3BFB-4560-828E-B5D93B57F546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E932F3-3BFB-4560-828E-B5D93B57F546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E932F3-3BFB-4560-828E-B5D93B57F546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E932F3-3BFB-4560-828E-B5D93B57F546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{392CDF21-2D40-4408-A952-F145A06CE9AD} = {F4D68ABA-F008-4D89-B08E-764A3B23D5AC}
+		{810C96E2-0D0B-406E-AFC4-76784085AB0A} = {F4D68ABA-F008-4D89-B08E-764A3B23D5AC}
+		{DB5A171A-6269-479A-AFAE-435FFCF9496B} = {F4D68ABA-F008-4D89-B08E-764A3B23D5AC}
+		{C4E932F3-3BFB-4560-828E-B5D93B57F546} = {4206641F-94D8-4452-AD96-FF2DC5549DB2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BA5EEF-4187-4C22-961C-F7EA18D55D41}
+	EndGlobalSection
+EndGlobal

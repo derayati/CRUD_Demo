@@ -1,0 +1,11 @@
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.deps.json
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.dll
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\bin\Debug\net5.0\ref\DerayatiBank.Common.dll
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.pdb
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.AssemblyInfoInputs.cache
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.AssemblyInfo.cs
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.csproj.CoreCompileInputs.cache
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.dll
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\ref\DerayatiBank.Common.dll
+C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.pdb
