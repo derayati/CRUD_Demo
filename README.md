@@ -44,7 +44,7 @@ It is for all application layers are included (except for the controllers). Test
 
 Clone from GitHub
 ```git bash
-git clone https://github.com/derayati/Sample_CRUD_Customer 
+git clone https://github.com/derayati/CRUD_Demo 
 ```
 
 <br/><br/>
