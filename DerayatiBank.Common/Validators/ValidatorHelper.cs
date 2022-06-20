@@ -30,11 +30,12 @@ namespace DerayatiBank.Common
             return true;
         }
 
+        
+        private static readonly PhoneNumberUtil PhoneUtil = PhoneNumberUtil.GetInstance();
         public static bool PhoneNumberIsValid(string localphone,string region)
         {
-            PhoneNumberUtil phoneUtil = PhoneNumberUtil.GetInstance();
-            var phoneno = phoneUtil.Parse(localphone, region);
-            return phoneUtil.IsValidNumber(phoneno);
+            var phoneno = PhoneUtil.Parse(localphone, region);
+            return PhoneUtil.IsValidNumber(phoneno);
         }
     }
 }
