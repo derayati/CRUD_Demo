@@ -53,10 +53,7 @@ namespace DerayatiBank.WebAPI.Controllers
         public async Task<ActionResult> GetById(Guid id)
         {
             var customer = await _customerService.GetCustomerById(id);
-            if (customer.Id == id)
-                return Ok(customer);
-            else
-                return NotFound();
+            return (customer.Id == id) ? Ok(customer) : NotFound();
         }
         
         [HttpGet]
@@ -64,26 +61,21 @@ namespace DerayatiBank.WebAPI.Controllers
         public ActionResult GetByEmail(String Email)
         {
             var customer = _customerService.GetCustomerByEmail(Email);
-            if (customer.Email.Address == Email)
-                return Ok(customer);
-            else
-                return NotFound();
+            return (customer.Email.Address == Email) ? Ok(customer) : NotFound();
         }
         
         [HttpPut]
         [Route("Update/{id}")]
         public ActionResult Update(Customer customer)
         {
-            var resp = _customerService.UpdateCustomer(customer);
-            return Ok(resp);
+            return Ok(_customerService.UpdateCustomer(customer));
         }
 
         [HttpDelete]
         [Route("Delete/{id}")]
         public IActionResult Delete(Guid id)
         {
-            var resp = _customerService.DeleteCustomer(id);
-            return Ok(resp);
+            return Ok(_customerService.DeleteCustomer(id));
         }
     }
 }
