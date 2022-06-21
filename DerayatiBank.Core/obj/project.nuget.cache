@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXAbYly5DFaQMfa0KMcbfB2BEyrk+zlPzggQnbAknxIrktpj5s1h6nWcZHXh4dvTbExR24ashp5TnGlicAg7lg==",
+  "dgSpecHash": "KkyVaSkBMXr2SyzlcJkJSj+VF1uVcKLuV5b6oakKHNib2EQ03k5QXnL9+xOgDNPV5r+QiNWTX2lgshdgLrq6Cw==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Derayati Bank\\DerayatiBank.Core\\DerayatiBank.Core.csproj",
+  "projectFilePath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Core\\DerayatiBank.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meysam\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\meysam\\.nuget\\packages\\libphonenumber-csharp\\8.12.49\\libphonenumber-csharp.8.12.49.nupkg.sha512",

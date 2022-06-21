@@ -16,3 +16,21 @@ C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Core\bin\Debug\ne
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Common.pdb
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.csproj.CopyComplete
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.genruntimeconfig.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Core.deps.json
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Core.runtimeconfig.json
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Core.runtimeconfig.dev.json
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Core.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\ref\DerayatiBank.Core.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Core.pdb
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Common.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\bin\Debug\net5.0\DerayatiBank.Common.pdb
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.csproj.AssemblyReference.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.AssemblyInfoInputs.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.AssemblyInfo.cs
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.csproj.CoreCompileInputs.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.csproj.CopyComplete
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\ref\DerayatiBank.Core.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.pdb
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Core\obj\Debug\net5.0\DerayatiBank.Core.genruntimeconfig.cache

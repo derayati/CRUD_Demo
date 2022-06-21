@@ -8807,11 +8807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Derayati Bank\\DerayatiBank.Test\\DerayatiBank.Test.csproj",
+      "projectUniqueName": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Test\\DerayatiBank.Test.csproj",
       "projectName": "DerayatiBank.Test",
-      "projectPath": "C:\\Source\\Derayati Bank\\DerayatiBank.Test\\DerayatiBank.Test.csproj",
+      "projectPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Test\\DerayatiBank.Test.csproj",
       "packagesPath": "C:\\Users\\meysam\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Derayati Bank\\DerayatiBank.Test\\obj\\",
+      "outputPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -8833,11 +8833,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Source\\Derayati Bank\\DerayatiBank.Core\\DerayatiBank.Core.csproj": {
-              "projectPath": "C:\\Source\\Derayati Bank\\DerayatiBank.Core\\DerayatiBank.Core.csproj"
+            "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Core\\DerayatiBank.Core.csproj": {
+              "projectPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Core\\DerayatiBank.Core.csproj"
             },
-            "C:\\Source\\Derayati Bank\\DerayatiBank.WebAPI\\DerayatiBank.WebAPI.csproj": {
-              "projectPath": "C:\\Source\\Derayati Bank\\DerayatiBank.WebAPI\\DerayatiBank.WebAPI.csproj"
+            "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.WebAPI\\DerayatiBank.WebAPI.csproj": {
+              "projectPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.WebAPI\\DerayatiBank.WebAPI.csproj"
             }
           }
         }

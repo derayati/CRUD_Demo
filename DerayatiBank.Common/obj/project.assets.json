@@ -83,11 +83,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Derayati Bank\\DerayatiBank.Common\\DerayatiBank.Common.csproj",
+      "projectUniqueName": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Common\\DerayatiBank.Common.csproj",
       "projectName": "DerayatiBank.Common",
-      "projectPath": "C:\\Source\\Derayati Bank\\DerayatiBank.Common\\DerayatiBank.Common.csproj",
+      "projectPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Common\\DerayatiBank.Common.csproj",
       "packagesPath": "C:\\Users\\meysam\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Derayati Bank\\DerayatiBank.Common\\obj\\",
+      "outputPath": "C:\\Source\\CRUD_Customer_Test-master\\DerayatiBank.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

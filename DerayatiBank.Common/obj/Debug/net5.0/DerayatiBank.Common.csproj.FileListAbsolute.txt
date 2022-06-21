@@ -9,3 +9,15 @@ C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.dll
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\ref\DerayatiBank.Common.dll
 C:\Users\meysam\source\BankSolution\Derayati Bank\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.pdb
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.deps.json
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\bin\Debug\net5.0\ref\DerayatiBank.Common.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\bin\Debug\net5.0\DerayatiBank.Common.pdb
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.csproj.AssemblyReference.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.AssemblyInfoInputs.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.AssemblyInfo.cs
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.csproj.CoreCompileInputs.cache
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\ref\DerayatiBank.Common.dll
+C:\Source\CRUD_Customer_Test-master\DerayatiBank.Common\obj\Debug\net5.0\DerayatiBank.Common.pdb
